@@ -56,9 +56,6 @@ Before running the script, make sure you have the following:
 
 - By default, the playlist will be set to private. You can modify the privacy status in the `create_playlist` function in the code.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contributions
 
