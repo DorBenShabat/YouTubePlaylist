@@ -56,7 +56,6 @@ Before running the script, make sure you have the following:
 
 - By default, the playlist will be set to private. You can modify the privacy status in the `create_playlist` function in the code.
 
-
 ## Contributions
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
